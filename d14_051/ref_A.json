@@ -1,0 +1,453 @@
+{
+ "meta": {
+  "task": "D14-051-A"
+ },
+ "frames": {
+  "s01f42": [
+   {
+    "x": -10.4496,
+    "y": -21.523,
+    "z": -0.4104,
+    "length": 2.01,
+    "width": 0.7143,
+    "height": 1.6659,
+    "yaw": 4.7261,
+    "label": "Cyclist",
+    "occluded": false
+   },
+   {
+    "x": -9.0874,
+    "y": -20.8862,
+    "z": -0.4035,
+    "length": 0.9222,
+    "width": 0.8056,
+    "height": 1.7163,
+    "yaw": 5.9227,
+    "label": "Pedestrian",
+    "occluded": false
+   },
+   {
+    "x": -9.5757,
+    "y": 0.5614,
+    "z": -0.3912,
+    "length": 1.7964,
+    "width": 0.6071,
+    "height": 1.6214,
+    "yaw": 4.6698,
+    "label": "Cyclist",
+    "occluded": false
+   },
+   {
+    "x": 2.9504,
+    "y": -21.5892,
+    "z": -1.0405,
+    "length": 4.2318,
+    "width": 1.8064,
+    "height": 1.5054,
+    "yaw": 4.6854,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": 6.0674,
+    "y": 6.0993,
+    "z": -1.0154,
+    "length": 4.4962,
+    "width": 1.7752,
+    "height": 1.4343,
+    "yaw": 4.6886,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": 6.1049,
+    "y": -34.0322,
+    "z": -1.06,
+    "length": 3.8556,
+    "width": 1.7206,
+    "height": 1.572,
+    "yaw": 4.6331,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": -8.8294,
+    "y": -16.0321,
+    "z": -0.5355,
+    "length": 1.8193,
+    "width": 0.6678,
+    "height": 1.6597,
+    "yaw": 4.6746,
+    "label": "Cyclist",
+    "occluded": false
+   },
+   {
+    "x": -9.7998,
+    "y": -10.1872,
+    "z": -0.3903,
+    "length": 1.6499,
+    "width": 0.5275,
+    "height": 1.7352,
+    "yaw": 4.6863,
+    "label": "Cyclist",
+    "occluded": false
+   },
+   {
+    "x": -10.0579,
+    "y": 26.075,
+    "z": -0.3197,
+    "length": 1.927,
+    "width": 0.8273,
+    "height": 1.6828,
+    "yaw": 4.6863,
+    "label": "Cyclist",
+    "occluded": false
+   },
+   {
+    "x": 0.0896,
+    "y": 21.3715,
+    "z": -0.9559,
+    "length": 4.4451,
+    "width": 1.8273,
+    "height": 1.5435,
+    "yaw": 4.7437,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": 3.0269,
+    "y": -27.7348,
+    "z": -1.3344,
+    "length": 3.7771,
+    "width": 1.8228,
+    "height": 1.5626,
+    "yaw": 4.7505,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": -9.4334,
+    "y": 21.2166,
+    "z": -0.4426,
+    "length": 1.6702,
+    "width": 0.6417,
+    "height": 1.5973,
+    "yaw": 4.8654,
+    "label": "Cyclist",
+    "occluded": false
+   },
+   {
+    "x": 0.1596,
+    "y": -26.1713,
+    "z": -1.1033,
+    "length": 3.8358,
+    "width": 1.7775,
+    "height": 1.5632,
+    "yaw": 4.7369,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": -11.1223,
+    "y": -23.8619,
+    "z": -0.482,
+    "length": 1.9988,
+    "width": 0.6625,
+    "height": 1.7349,
+    "yaw": 4.5822,
+    "label": "Cyclist",
+    "occluded": false
+   },
+   {
+    "x": -9.4922,
+    "y": -17.9245,
+    "z": -0.4829,
+    "length": 1.8522,
+    "width": 0.6865,
+    "height": 1.7544,
+    "yaw": 4.7332,
+    "label": "Cyclist",
+    "occluded": false
+   },
+   {
+    "x": 0.1115,
+    "y": -15.4957,
+    "z": -0.9711,
+    "length": 3.6934,
+    "width": 1.8601,
+    "height": 1.3896,
+    "yaw": 4.7057,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": 2.9738,
+    "y": -6.0912,
+    "z": -0.9423,
+    "length": 4.4017,
+    "width": 1.7328,
+    "height": 1.4681,
+    "yaw": 4.7123,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": 8.8438,
+    "y": -25.0701,
+    "z": -1.2134,
+    "length": 4.3529,
+    "width": 1.7325,
+    "height": 1.3915,
+    "yaw": 4.7039,
+    "label": "Car",
+    "occluded": false
+   }
+  ],
+  "s03f44": [
+   {
+    "x": -3.133,
+    "y": -5.0994,
+    "z": -0.9376,
+    "length": 3.9508,
+    "width": 1.6942,
+    "height": 1.586,
+    "yaw": 4.7311,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": -6.5974,
+    "y": 10.8239,
+    "z": -0.9146,
+    "length": 2.0531,
+    "width": 0.7965,
+    "height": 1.7014,
+    "yaw": 4.5665,
+    "label": "Cyclist",
+    "occluded": false
+   },
+   {
+    "x": -0.083,
+    "y": -17.8296,
+    "z": -1.0677,
+    "length": 3.8354,
+    "width": 1.6524,
+    "height": 1.6505,
+    "yaw": 4.7836,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": -0.7038,
+    "y": 49.2365,
+    "z": -0.9518,
+    "length": 4.3694,
+    "width": 1.8729,
+    "height": 1.5964,
+    "yaw": 4.6576,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": 3.0706,
+    "y": 24.8316,
+    "z": -0.9385,
+    "length": 4.1558,
+    "width": 1.8115,
+    "height": 1.5772,
+    "yaw": 4.7456,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": -3.3729,
+    "y": -21.5545,
+    "z": -0.9237,
+    "length": 3.8355,
+    "width": 1.8323,
+    "height": 1.3438,
+    "yaw": 4.7808,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": -0.2711,
+    "y": -9.1616,
+    "z": -0.9262,
+    "length": 4.3688,
+    "width": 1.8072,
+    "height": 1.6014,
+    "yaw": 4.7116,
+    "label": "Car",
+    "occluded": false
+   }
+  ],
+  "s04f29": [
+   {
+    "x": 12.9065,
+    "y": -12.437,
+    "z": 0.0472,
+    "length": 11.1085,
+    "width": 2.9327,
+    "height": 3.4102,
+    "yaw": 1.5714,
+    "label": "Bus",
+    "occluded": false
+   },
+   {
+    "x": 9.564,
+    "y": 42.8628,
+    "z": -1.0558,
+    "length": 4.5118,
+    "width": 1.809,
+    "height": 1.511,
+    "yaw": 1.5924,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": 6.679,
+    "y": 18.1066,
+    "z": -0.9449,
+    "length": 4.6745,
+    "width": 1.8037,
+    "height": 1.5202,
+    "yaw": 1.6106,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": -6.4475,
+    "y": 37.1111,
+    "z": -0.5452,
+    "length": 4.577,
+    "width": 1.9239,
+    "height": 1.6585,
+    "yaw": 4.6944,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": -3.2202,
+    "y": -41.889,
+    "z": -1.0035,
+    "length": 4.0868,
+    "width": 1.8798,
+    "height": 1.5647,
+    "yaw": 4.6978,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": 6.2756,
+    "y": 41.391,
+    "z": -0.9925,
+    "length": 4.7785,
+    "width": 1.8647,
+    "height": 1.6491,
+    "yaw": 1.5812,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": -3.5508,
+    "y": 32.6494,
+    "z": -0.3963,
+    "length": 4.5391,
+    "width": 1.8765,
+    "height": 1.8278,
+    "yaw": 4.696,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": -3.3244,
+    "y": -8.5711,
+    "z": -0.9549,
+    "length": 4.3153,
+    "width": 2.0404,
+    "height": 1.5431,
+    "yaw": 4.7338,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": -0.3694,
+    "y": -22.5201,
+    "z": -0.9463,
+    "length": 3.6062,
+    "width": 2.0663,
+    "height": 1.4689,
+    "yaw": 4.7191,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": 6.7385,
+    "y": -10.808,
+    "z": -0.9397,
+    "length": 4.5627,
+    "width": 2.021,
+    "height": 1.484,
+    "yaw": 1.5766,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": 9.4188,
+    "y": -34.2719,
+    "z": -0.7601,
+    "length": 4.3915,
+    "width": 1.9588,
+    "height": 1.7669,
+    "yaw": 1.5582,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": -5.8368,
+    "y": -16.0355,
+    "z": -0.7618,
+    "length": 4.5478,
+    "width": 2.0758,
+    "height": 1.8409,
+    "yaw": 4.7848,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": -0.7611,
+    "y": 23.1745,
+    "z": -0.7681,
+    "length": 4.4357,
+    "width": 2.2338,
+    "height": 1.6321,
+    "yaw": 4.7222,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": 9.8764,
+    "y": 27.1561,
+    "z": -0.9792,
+    "length": 3.4276,
+    "width": 1.7714,
+    "height": 1.4701,
+    "yaw": 1.666,
+    "label": "Car",
+    "occluded": false
+   },
+   {
+    "x": -4.1167,
+    "y": 9.3703,
+    "z": -0.7958,
+    "length": 2.0506,
+    "width": 0.9424,
+    "height": 1.7229,
+    "yaw": 4.6891,
+    "label": "Cyclist",
+    "occluded": false
+   }
+  ]
+ }
+}
